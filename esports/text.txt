@@ -1,0 +1,3 @@
+Que semana corrida, achei que não iria conseguir terminar, mas eu consegui tanto a mobile quanto a versão web, Não tirei print da mobile, mas você pode conferir no meu git.
+github: https://github.com/RelampagoMarquin/nlw_e-sports
+linkedin: https://www.linkedin.com/in/marcos-moreira-b2a229231/
